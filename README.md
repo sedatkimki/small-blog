@@ -36,8 +36,13 @@ npm run dev
 ```
 After that Client server will be running on port 8080 
 
+## Installation
+Click the link below for live preview.
+https://smoll-blog.herokuapp.com/
+
 
    [node.js]: <http://nodejs.org>
    [jQuery]: <http://jquery.com>
    [express]: <http://expressjs.com>
    [ejs]: <http://ejs.co>
+   
